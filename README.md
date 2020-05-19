@@ -5,46 +5,46 @@ Here mainly analyze the efficientnet network structure
 
 
 
-efficientnet.pdf 
+1. efficientnet.pdf 
 
-EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+   EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
-https://arxiv.org/abs/1905.11946
-
-
-
-mobileNetV2.pdf
-
-MobileNetV2: Inverted Residuals and Linear Bottlenecks
-
-https://arxiv.org/abs/1801.04381
+   https://arxiv.org/abs/1905.11946
 
 
 
-depthwise.pdf
+2. mobileNetV2.pdf
 
-Diagonalwise Refactorization: An Efficient Training Method for Depthwise Convolutions
+   MobileNetV2: Inverted Residuals and Linear Bottlenecks
 
-https://arxiv.org/pdf/1803.09926.pdf
-
-
-
-resnet_skip_connections.pdf
-
-Deep Residual Learning for Image Recognition
-
-https://arxiv.org/pdf/1512.03385.pdf
+   https://arxiv.org/abs/1801.04381
 
 
 
-seNet.pdf 
+3. depthwise.pdf
 
-Squeeze-and-Excitation Networks
+   Diagonalwise Refactorization: An Efficient Training Method for Depthwise Convolutions
 
-https://arxiv.org/abs/1709.01507
+   https://arxiv.org/pdf/1803.09926.pdf
 
 
 
-efficientnet.py
+4. resnet_skip_connections.pdf
 
-Simple implementation of efficientnet using pytorch
+   Deep Residual Learning for Image Recognition
+
+   https://arxiv.org/pdf/1512.03385.pdf
+
+
+
+5. seNet.pdf 
+
+   Squeeze-and-Excitation Networks
+
+   https://arxiv.org/abs/1709.01507
+
+
+
+6. efficientnet.py
+
+   Simple implementation of efficientnet using pytorch
